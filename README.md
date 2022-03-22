@@ -1,1 +1,1 @@
-# technicle
+# technical
